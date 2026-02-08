@@ -43,29 +43,6 @@ I am an undergraduate IT student with hands-on experience as an **IT & Network A
 
 ---
 
-## 💼 Work Experience
-
-### **IT & Network Assistant** – Asiri Food (Pvt) Ltd  
-📅 *Feb 2025 – Present*
-- Provided hardware, software, and network technical support  
-- Managed printers and print servers across departments  
-- Maintained IT documentation, asset tracking, and configurations  
-- Worked daily with **ERP & SFA systems** for inventory, billing, and order processing  
-
-### **Financial Advisor** – Union Assurance PLC  
-📅 *2022 – 2024*
-- Managed digital tools and mobile apps for customer services  
-- Conducted market research and client advisory services  
-
-### **Director & Membership Coordinator** – LEO Club of BCI  
-📅 *2023 – Present*
-- Coordinated events and student engagement initiatives  
-- Chairperson of **“Felicitas” Fundraising Project**  
-
-### **Assistant Project Coordinator** – BCI Codemize-23  
-
----
-
 ## 📂 Projects
 
 | Project | Description | Tech Stack |
@@ -73,31 +50,6 @@ I am an undergraduate IT student with hands-on experience as an **IT & Network A
 | **Vehicle Service Management System** | Invoice, customer & item management | Laravel, MySQL, JS, Bootstrap |
 | **University Asset Management System** | Asset tracking & optimization | PHP, MySQL, JS, Bootstrap |
 | **Personal Portfolio Website** | Professional portfolio website | Wix |
-
----
-
-## 🏆 Honors & Awards
-- 🥇 **Winner – Most Outstanding Fundraising Project (Felicitas)**  
-  *Leo District 306 B1 – 2023/24*
-- 🥈 **1st Runner-Up – Fundraising Project**  
-  *Leo Multiple District 306 – Sri Lanka & Maldives*
-- 🏅 **Browns Medal – All Island School Games (Wrestling)**  
-- 🎖 **School Senior Colours – Wrestling**
-- 🥈 **2nd Place – Javelin Throw**, National Youth Sports Festival 2023  
-
----
-
-## 🎯 Leadership & Activities
-- Vice Athletics Captain – St. Joseph’s College  
-- Member – Coding Club & Media Club (BCI)  
-- Member – Jose Wrestling Team  
-- Participant – Sirasa Gammadda V-Force Leadership & Future Series  
-
----
-
-## 🌐 Languages
-- Sinhala – Native  
-- English – Professional  
 
 ---
 
