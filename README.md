@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ruthikmalka/Ruthikmalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ruthik Malka
+### 🎓 BSc (Hons) in Information Technology Undergraduate – BCI Campus
+**IT & Network Assistant | Software Developer | Web Developer**
 
-Here are some ideas to get you started:
+📍 Sri Lanka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-ruthikmalka.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/ruthikmalka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthik_Malka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthik-malka-48b237294)
+[![Email](https://img.shields.io/badge/Email-ruthik2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruthik2020@gmail.com)
+
+---
+
+### 🚀 About Me
+I am an undergraduate IT student with hands-on experience as an **IT & Network Assistant**, specializing in **software development, network support, and system administration**. I have practical exposure to **ERP & SFA systems**, printer and network infrastructure, and full-stack web development using modern frameworks. I am highly motivated to contribute to real-world projects while continuously improving my technical and professional skills.
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Programming & Web**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### **Frameworks & CMS**
+![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=white)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### **IT & Network Assistant** – Asiri Food (Pvt) Ltd  
+📅 *Feb 2025 – Present*
+- Provided hardware, software, and network technical support  
+- Managed printers and print servers across departments  
+- Maintained IT documentation, asset tracking, and configurations  
+- Worked daily with **ERP & SFA systems** for inventory, billing, and order processing  
+
+### **Financial Advisor** – Union Assurance PLC  
+📅 *2022 – 2024*
+- Managed digital tools and mobile apps for customer services  
+- Conducted market research and client advisory services  
+
+### **Director & Membership Coordinator** – LEO Club of BCI  
+📅 *2023 – Present*
+- Coordinated events and student engagement initiatives  
+- Chairperson of **“Felicitas” Fundraising Project**  
+
+### **Assistant Project Coordinator** – BCI Codemize-23  
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech Stack |
+|------|-----------|-----------|
+| **Vehicle Service Management System** | Invoice, customer & item management | Laravel, MySQL, JS, Bootstrap |
+| **University Asset Management System** | Asset tracking & optimization | PHP, MySQL, JS, Bootstrap |
+| **Personal Portfolio Website** | Professional portfolio website | Wix |
+
+---
+
+## 🏆 Honors & Awards
+- 🥇 **Winner – Most Outstanding Fundraising Project (Felicitas)**  
+  *Leo District 306 B1 – 2023/24*
+- 🥈 **1st Runner-Up – Fundraising Project**  
+  *Leo Multiple District 306 – Sri Lanka & Maldives*
+- 🏅 **Browns Medal – All Island School Games (Wrestling)**  
+- 🎖 **School Senior Colours – Wrestling**
+- 🥈 **2nd Place – Javelin Throw**, National Youth Sports Festival 2023  
+
+---
+
+## 🎯 Leadership & Activities
+- Vice Athletics Captain – St. Joseph’s College  
+- Member – Coding Club & Media Club (BCI)  
+- Member – Jose Wrestling Team  
+- Participant – Sirasa Gammadda V-Force Leadership & Future Series  
+
+---
+
+## 🌐 Languages
+- Sinhala – Native  
+- English – Professional  
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ruthikmalka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ruthikmalka&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthikmalka&theme=dark&hide_border=false&layout=compact)
+
+---
+
+<div align="center">
+⭐ <i>Thank you for visiting my profile! Feel free to explore my repositories.</i>
+</div>
