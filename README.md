@@ -15,6 +15,10 @@
 ### 🚀 About Me
 I am an undergraduate IT student with hands-on experience as an **IT & Network Assistant**, specializing in **software development, network support, and system administration**. I have practical exposure to **ERP & SFA systems**, printer and network infrastructure, and full-stack web development using modern frameworks. I am highly motivated to contribute to real-world projects while continuously improving my technical and professional skills.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruthikmalka&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 </div>
 
 ---
