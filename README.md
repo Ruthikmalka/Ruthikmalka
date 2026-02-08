@@ -65,8 +65,6 @@ I am an undergraduate IT student with hands-on experience as an **IT & Network A
 
   ![Profile Views](https://komarev.com/ghpvc/?username=ruthikmalka&style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruthik-malka-48b237294)
-
 </p>
 
 <div align="center">
